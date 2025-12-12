@@ -32,7 +32,7 @@ Como este é um plugin corporativo, a instalação é feita através do gerencia
 2.  Clique no botão **"Add Beta plugin"**.
 3.  Copie e cole o seguinte link do repositório:
     ```
-    [https://github.com/LexiaTJMT/lexia-obsidian-dist.git](https://github.com/LexiaTJMT/lexia-obsidian-dist.git)
+    https://github.com/LexiaTJMT/lexia-obsidian-dist.git
     ```
 4.  Clique em **Add Plugin**.
 5.  Uma notificação confirmará a instalação. Agora, vá na lista de plugins instalados e **Ative o LexIA**.
